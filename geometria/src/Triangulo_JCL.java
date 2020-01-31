@@ -24,7 +24,5 @@ public class Triangulo_JCL extends FiguraGeometrica_JCL {
 		return Math.sqrt(sp * (sp-lado1) * (sp-lado2) * (sp-lado3));
 	}
 	
-	public double semiPerimetro() {
-		return this.perimetro() / 2;
-	}
+
 }
