@@ -1,4 +1,7 @@
-
+/*
+ *@author Jordi Codevila de León
+ *@version 1.0
+ */
 public class Rectangulo_JCL extends FiguraGeometrica_JCL {
 	private double l1;
 	private double l2;
